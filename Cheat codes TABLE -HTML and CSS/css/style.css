@@ -1,0 +1,31 @@
+.Heading {
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    font-size: 35px;
+    text-shadow: 0px 3px #C9ADA7;
+}
+
+.tag, .attributes {
+    color: #5C4033;
+    text-decoration: underline;
+   
+    
+}
+
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse; /* to replace double lined border with single line*/
+}
+
+th, td {
+    border: 0.1em solid black; /*border styles to view table*/
+    padding: 8px;
+    text-align: left;
+}
+
+.table-header {
+    background-color: #c9ada7;
+}
+
